@@ -113,5 +113,62 @@ Smart-Safety-Security-Kit/
 └── README.md
 
 
+## Software Requirements
+
+- Arduino IDE
+- Arduino UNO Board Package
+- USB Cable for Arduino Programming
+
+---
+
+## How to Use
+
+1. Download or clone this repository.
+2. Open the desired project folder.
+3. Connect the components as shown in the circuit diagram.
+4. Open the corresponding `.ino` file in Arduino IDE.
+5. Select **Arduino UNO** as the board.
+6. Select the correct COM port.
+7. Upload the code to the Arduino.
+8. Test the project.
+
+---
+
+## Learning Outcomes
+
+Through these projects, you will learn:
+
+- Arduino Programming Basics
+- Sensor Interfacing
+- Alarm and Alert Systems
+- Safety Monitoring Applications
+- Automation Concepts
+- Practical Electronics
+
+---
+
+## Applications
+
+- Home Safety Systems
+- Fire Detection Systems
+- Gas Leakage Monitoring
+- Motion-Based Security Systems
+- Smart Home Automation
+- STEM and Robotics Education
+
+---
+
+## Disclaimer
+
+These projects are intended for educational and demonstration purposes only. They should not be used as a replacement for certified commercial safety or security systems.
+
+---
+
+## License
+
+This repository is open for educational and personal learning purposes.
+
+---
+
 
 
