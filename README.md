@@ -112,7 +112,7 @@ Smart-Safety-Security-Kit/
 │
 └── README.md
 
-
+``` 
 ## Software Requirements
 
 - Arduino IDE
